@@ -1,0 +1,40 @@
+{
+  "users": {
+    "Nikita": {
+      "id": 0,
+      "name": "Nikita Ivanov",
+      "age": 25,
+      "email": "nikita@example.com"
+    },
+    "Vanya": {
+      "id": 1,
+      "name": "Ivan Petrov",
+      "age": 30,
+      "email": "ivan@example.com"
+    },
+    "Sasha": {
+      "id": 2,
+      "name": "Alexander Sidorov",
+      "age": 28,
+      "email": "alexander@example.com"
+    },
+    "Bohdan": {
+      "id": 3,
+      "name": "Bohdan Kovalenko",
+      "age": 27,
+      "email": "bohdan@example.com"
+    },
+    "Olya": {
+      "id": 4,
+      "name": "Olga Tkachenko",
+      "age": 26,
+      "email": "olga@example.com"
+    },
+    "Nikto": {
+      "id": 5,
+      "name": "Nikolai Semenov",
+      "age": 29,
+      "email": "nikolai@example.com"
+    }
+  }
+}

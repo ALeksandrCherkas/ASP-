@@ -1,0 +1,22 @@
+{
+  "books": {
+    "The Bruising of Qilw": {
+      "name": "The Bruising of Qilw",
+      "year": 2019,
+      "genre": "Fantasy",
+      "author": "Naseem Jamnia"
+    },
+    "California Lafine del sogno": {
+      "name": "California Dreamin'",
+      "year": 2017,
+      "genre": "Biography",
+      "author": "Michelle Obama"
+    },
+    "Raising Lazarus": {
+      "name": "Raising Lazarus",
+      "year": 2020,
+      "genre": "Nonfiction",
+      "author": "Malcolm Gladwell"
+    }
+  }
+}
